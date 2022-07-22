@@ -1,4 +1,4 @@
-# Day_03-Task1]. For the given JSON iterate over all for loop (for, for in, for of, forEach)
+# Day_03-Task
 
 
 2]. Create your own resume data in JSON format
